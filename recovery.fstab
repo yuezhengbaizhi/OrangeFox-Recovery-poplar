@@ -12,7 +12,7 @@
 /bt_firmware     vfat      /dev/block/bootdevice/by-name/bluetooth         flags=display="BT Firmware";mounttodecrypt;fsflags=ro,context=u:object_r:firmware_file:s0;
 /efs1            emmc      /dev/block/bootdevice/by-name/modemst1          flags=backup=1;display=EFS
 /efs2            emmc      /dev/block/bootdevice/by-name/modemst2          flags=backup=1;subpartitionof=/efs1
-/mnt/vendor/persist         ext4      /dev/block/bootdevice/by-name/persist
+/persist         ext4      /dev/block/bootdevice/by-name/persist
 
 /sdcard1         auto      /dev/block/mmcblk0p1    /dev/block/mmcblk0      flags=display="Micro SDcard";storage;wipeingui;removable
 /usb-otg         auto      /dev/block/sdg1         /dev/block/sdg          flags=display="USB OTG";storage;wipeingui;removable
