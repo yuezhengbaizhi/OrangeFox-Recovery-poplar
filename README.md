@@ -20,6 +20,6 @@ GPU     | Adreno 540
 Memory  | 4 GB RAM
 Shipped Android Version | 7.1.1
 Storage | 64 GB
-Battery | Li-Po 3300 mAh battery
-Display | 3840 x 2160 pixels, 5.5 inches (~870 ppi pixel density)
+Battery | Li-Po 2700 mAh battery
+Display | 1920 x 1080 pixels, 5.2 inches
 Rear Camera  | 17 MP Motion Eye | 960fps
