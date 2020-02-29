@@ -6,7 +6,7 @@ Tree for building TWRP for Xperia XZ1
 
 export ALLOW_MISSING_DEPENDENCIES=true
 
-. build/envsetup.sh && lunch omni_maple-eng
+. build/envsetup.sh && lunch omni_poplar-eng
 
 mka adbd recoveryimage
 
