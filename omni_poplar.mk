@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := maple
+PRODUCT_RELEASE_NAME := poplar
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -23,8 +23,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := maple
-PRODUCT_NAME := omni_maple
+PRODUCT_DEVICE := poplar
+PRODUCT_NAME := omni_poplar
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := Xperia XZ Premium
+PRODUCT_MODEL := Xperia XZ1
 PRODUCT_MANUFACTURER := Sony
