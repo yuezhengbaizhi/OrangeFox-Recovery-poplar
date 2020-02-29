@@ -29,7 +29,7 @@ LOCAL_PATH := $(call my-dir)
 #include $(call all-makefiles-under,$(LOCAL_PATH))
 #endif
 
-ifeq ($(TARGET_DEVICE), maple)
+ifeq ($(TARGET_DEVICE), poplar)
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
