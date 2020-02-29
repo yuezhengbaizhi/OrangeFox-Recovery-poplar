@@ -1,6 +1,6 @@
-# android_device_sony_maple
-Tree for building TWRP for Xperia XZ Premium
-             By Sjll
+# android_device_sony_poplar
+Tree for building TWRP for Xperia XZ1
+             By Sjll & Yuezhengbaizhi
 
 ## To compile
 
