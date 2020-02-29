@@ -27,7 +27,7 @@
 #
 #
 
-LOCAL_PATH := device/sony/maple
+LOCAL_PATH := device/sony/poplar
 
 # Architecture
 TARGET_ARCH := arm64
