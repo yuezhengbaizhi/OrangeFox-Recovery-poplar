@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_maple.mk
+    $(LOCAL_DIR)/omni_poplar.mk
